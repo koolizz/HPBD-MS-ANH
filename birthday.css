@@ -1,0 +1,8 @@
+.birthday-message {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff; /* Màu chữ */
+    background-color: #ff69b4; /* Màu nền */
+    padding: 10px; /* Khoảng cách giữa nội dung và viền */
+}
